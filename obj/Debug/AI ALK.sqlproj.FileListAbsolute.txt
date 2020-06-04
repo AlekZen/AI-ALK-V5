@@ -1,0 +1,5 @@
+C:\Users\Administrador\source\repos\AI ALK\bin\Debug\AI ALK.dacpac
+C:\Users\Administrador\source\repos\AI ALK\bin\Debug\AI_ALK.dll
+C:\Users\Administrador\source\repos\AI ALK\bin\Debug\AI_ALK.pdb
+C:\Users\Administrador\source\repos\AI ALK\obj\Debug\AI_ALK.dll
+C:\Users\Administrador\source\repos\AI ALK\obj\Debug\AI_ALK.pdb
